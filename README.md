@@ -1,6 +1,7 @@
 # typer-js
 TyperJS is a tool for validating object schemas.
 
+This script was created for personal use, it probably has its bugs. If you want to use it then go ahead
 
 ## Example
 
